@@ -1,2 +1,0 @@
-# pythonsubastas
-simulador de subastas 
